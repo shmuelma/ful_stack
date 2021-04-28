@@ -1,0 +1,12 @@
+{
+  "name": "native_node",
+  "displayName": "native_node",
+  "expo": {
+    "name": "native_node",
+    "slug": "native_node",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
